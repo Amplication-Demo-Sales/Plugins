@@ -1,5 +1,5 @@
 {
-  "name": "@amplication/plugin-dotnet-auth-core-identity",
+  "name": "dotnet-custom-authentication",
   "version": "0.1.2",
   "description": "Add Authentication and Authorization to your .NET Services",
   "main": "dist/index.js",
